@@ -1,15 +1,15 @@
 {
-    "name": "Templates plugins",
-    "description": "Custom templates plugin",
-    "version": "1.0.0",
-    "author": "saksham chandel",
-    "repository": "https://github.com/yung-coder/monokel-template-plugin",
-    "monoklePlugin":{
-        "modules":[
-            {
-                "type": "template",
-                "path": "basic-pod-template"
-            }
-        ]
-    }
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Saksham chaandel",
+	"repository": "https://github.com/kunal-kushwaha/monokle-templates-plugin",
+	"monoklePlugin": {
+		"id": "com.github.yung-coder.plugin.templates",
+		"helpUrl": "https://github.com/yung-coder/monokel-template-plugin",
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
 }
