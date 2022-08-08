@@ -3,7 +3,7 @@
 	"description": "Custom templates plugin",
 	"version": "1.0.0",
 	"author": "Saksham chaandel",
-	"repository": "https://github.com/kunal-kushwaha/monokle-templates-plugin",
+	"repository": "https://github.com/yung-coder/monokel-template-plugin",
 	"monoklePlugin": {
 		"id": "com.github.yung-coder.plugin.templates",
 		"helpUrl": "https://github.com/yung-coder/monokel-template-plugin",
